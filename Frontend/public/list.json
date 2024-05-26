@@ -5,7 +5,7 @@
         "title": "Tales and Adventures: Your Story Book Hub",
         "price": 0,
         "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716733135~exp=1716736735~hmac=2b4e364fc5efdb1eb7e66661947907aa3008ed764e8d89c9ff3d0853ed248f46&w=740"
+        "image": "https://img.freepik.com/free-vector/illustration-with-fairytale-concept_23-2148486940.jpg?t=st=1716751880~exp=1716755480~hmac=a152fac4d2d4b1fa055872621cabb03c4d2d00a32034bd282d902de07d6a0fda&w=740"
     },
 
     {
@@ -14,7 +14,7 @@
         "title": "Discovering Science: Explore, Learn, Understand",
         "price": 0,
         "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716733135~exp=1716736735~hmac=2b4e364fc5efdb1eb7e66661947907aa3008ed764e8d89c9ff3d0853ed248f46&w=740"
+        "image": "https://img.freepik.com/free-vector/flat-design-scientific-poster-design_23-2149551455.jpg?t=st=1716751547~exp=1716755147~hmac=a4c0a2c6ff821c396ac6849b36426cd7fac65c954f336dc54aa5ec853f361fd0&w=740"
     },
 
     {
@@ -23,16 +23,16 @@
         "title": "Melodies and Harmonies: Your Music Guide",
         "price": 160,
         "category": "Music",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716733135~exp=1716736735~hmac=2b4e364fc5efdb1eb7e66661947907aa3008ed764e8d89c9ff3d0853ed248f46&w=740"
+        "image": "https://img.freepik.com/free-vector/artistic-poster-concept-music-party_23-2147755931.jpg?t=st=1716751787~exp=1716755387~hmac=6ddd49507b218da682f13e65a18ae848ed95d2c6edb35a494c246253ea4156a2&w=740"
     },
 
     {
         "id": 4,
-        "name": "Story Book",
-        "title": "Tales and Adventures: Your Story Book Hub",
+        "name": "Environmental Book",
+        "title": "Environmental Awareness: A Guide to Our Planet",
         "price": 0,
         "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716733135~exp=1716736735~hmac=2b4e364fc5efdb1eb7e66661947907aa3008ed764e8d89c9ff3d0853ed248f46&w=740"
+        "image": "https://img.freepik.com/free-photo/international-day-education-cartoon-style_23-2151007403.jpg?t=st=1716752327~exp=1716755927~hmac=3d6a16b10edd3362f1dfcc4aad38178a4960f56d6d24bd86503a9a4b184141d0&w=740"
     },
 
     {
@@ -46,55 +46,55 @@
 
     {
         "id": 6,
-        "name": "Story Book",
-        "title": "Tales and Adventures: Your Story Book Hub",
+        "name": "Mystery Book",
+        "title": "Unraveling Mysteries: A Thrilling Journey",
         "price": 0,
         "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716733135~exp=1716736735~hmac=2b4e364fc5efdb1eb7e66661947907aa3008ed764e8d89c9ff3d0853ed248f46&w=740"
+        "image": "https://img.freepik.com/premium-photo/books-them-candle-front-them-lamp-with-cartone-2d-digital-game-assets_732466-104.jpg?w=740"
     },
 
     {
         "id": 7,
-        "name": "Story Book",
-        "title": "Tales and Adventures: Your Story Book Hub",
+        "name": "Finance Book",
+        "title": "Smart Money: Your Essential Financial Guidebook",
         "price": 0,
         "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716733135~exp=1716736735~hmac=2b4e364fc5efdb1eb7e66661947907aa3008ed764e8d89c9ff3d0853ed248f46&w=740"
+        "image": "https://img.freepik.com/free-psd/hand-drawn-technology-concept-poster-template_23-2149819795.jpg?t=st=1716752681~exp=1716756281~hmac=6d3310832c5e286b9951cf2b4810ebfe72dea835137d92450383e2e227eb2a1f&w=740"
     },
 
     {
         "id": 8,
-        "name": "Story Book",
-        "title": "Tales and Adventures: Your Story Book Hub",
+        "name": "Grammer Book",
+        "title": "Mastering Grammar: Your Essential Guide",
         "price": 0,
         "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716733135~exp=1716736735~hmac=2b4e364fc5efdb1eb7e66661947907aa3008ed764e8d89c9ff3d0853ed248f46&w=740"
+        "image": "https://img.freepik.com/free-psd/english-language-courses-vertical-poster-template-retro-style_23-2149432106.jpg?t=st=1716752755~exp=1716756355~hmac=901d1a8a58daaa26db6b5515e846ee24234f8237c30f246a60ce173359157de9&w=740"
     },
 
     {
         "id": 9,
-        "name": "Story Book",
-        "title": "Tales and Adventures: Your Story Book Hub",
-        "price": 0,
-        "category": "Free",
+        "name": "History Book",
+        "title": "Timeless Tales: Journey Through History",
+        "price": 250,
+        "category": "History",
         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716733135~exp=1716736735~hmac=2b4e364fc5efdb1eb7e66661947907aa3008ed764e8d89c9ff3d0853ed248f46&w=740"
     },
 
     {
         "id": 10,
-        "name": "Story Book",
-        "title": "Tales and Adventures: Your Story Book Hub",
-        "price": 0,
-        "category": "Free",
+        "name": "Animal Book",
+        "title": "Wild Wonders: Exploring the Animal Kingdom",
+        "price": 270,
+        "category": "Animal",
         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716733135~exp=1716736735~hmac=2b4e364fc5efdb1eb7e66661947907aa3008ed764e8d89c9ff3d0853ed248f46&w=740"
     },
 
     {
         "id": 11,
-        "name": "Story Book",
-        "title": "Tales and Adventures: Your Story Book Hub",
-        "price": 0,
-        "category": "Free",
+        "name": "Sports Book",
+        "title": "Game On: Your Ultimate Sports Guide",
+        "price": 299,
+        "category": "Sports",
         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716733135~exp=1716736735~hmac=2b4e364fc5efdb1eb7e66661947907aa3008ed764e8d89c9ff3d0853ed248f46&w=740"
     }
 ]
