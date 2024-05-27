@@ -1,17 +1,17 @@
-import { useState } from "react";
-import Navbar from "./components/Navbar";
-import Banner from "./components/Banner";
-import Freebook from "./components/Freebook";
-import Footer from "./components/Footer";
 import "./App.css";
+import Courses from "./courses/Courses";
+import Home from "./home/Home";
+import { Routes, Route } from "react-router-dom";
 
 function App() {
   return (
     <>
-      <Navbar></Navbar>
-      <Banner></Banner>
-      <Freebook></Freebook>
-      <Footer></Footer>
+      {/* <Home></Home>
+      <Course></Course> */}
+      <Routes>
+        <Route path="/" element={<Home />}></Route>
+        <Route path="/course" element={<Courses />}></Route>
+      </Routes>
     </>
   );
 }
