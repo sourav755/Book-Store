@@ -23,9 +23,11 @@ function Course() {
           </button>
         </div>
 
-        <div>
+        <div className="mt-12 grid grid-cols-1 md:grid-cols-3">
+          {console.log(list)}
           {list.map((item) => {
-            <Cards key={item.id} item={item}></Cards>;
+            console.log(item);
+            return <Cards key={item.id} item={item} />;
           })}
         </div>
       </div>
