@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "Food Book",
-    "title": "Delicious Recipes: Your Culinary Guide",
+    "title": "Delicious Recipes: Your Ultimate Culinary Guide",
     "price": 299,
     "category": "Food",
     "image": "https://img.freepik.com/free-vector/healthy-food-restaurant-flyer-with-photo_23-2148487538.jpg?t=st=1716919359~exp=1716922959~hmac=b0bfd0c51254465884ee7c6a3158e9fc018efc2a3d67e72fe396dd5e99f65c3f&w=740"
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "name": "Sports Book",
-    "title": "Game On: Your Ultimate Sports Guide",
+    "title": "Game On: Your Ultimate Sports Guidebook",
     "price": 299,
     "category": "Sports",
     "image": "https://img.freepik.com/free-psd/sports-competition-vertical-poster-with-photo_23-2149047162.jpg?t=st=1716919976~exp=1716923576~hmac=3e49c8854055a86da31f6573ed82a75de83b27ae8647562986d1fdfdf8a5d07b&w=740"
