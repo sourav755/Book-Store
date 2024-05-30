@@ -6,7 +6,7 @@ function Contact() {
     <>
       <Navbar></Navbar>
       <div>
-        <div className="max-w-screen-md mx-auto p-8 mt-24">
+        <div className="max-w-screen-md mx-auto p-8 mt-16">
           <h1 className="text-4xl font-bold mb-8 text-center">Contact Us</h1>
           <form className="space-y-6">
             <div>
