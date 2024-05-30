@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import list from "../../public/list.json";
+// import list from "../../public/list.json";
 import Cards from "./Cards";
 import axios from "axios";
 import { Link } from "react-router-dom";
@@ -11,10 +11,12 @@ function Course() {
       try {
         const res = await axios.get("http://localhost:4001/book");
         console.log(res.data);
+        setBook(res.data);
       } catch (error) {
         console.log("error ", error);
       }
     };
+    getBook();
   }, []);
   return (
     <>
@@ -39,8 +41,8 @@ function Course() {
         </div>
 
         <div className="mt-12 grid grid-cols-1 md:grid-cols-3">
-          {console.log(list)}
-          {list.map((item) => {
+          {console.log(book)}
+          {book.map((item) => {
             console.log(item);
             return <Cards key={item.id} item={item} />;
           })}
